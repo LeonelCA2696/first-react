@@ -1,2 +1,2 @@
 # first-react
-my first react project (practice)
+my first react and webpack project (practice)
